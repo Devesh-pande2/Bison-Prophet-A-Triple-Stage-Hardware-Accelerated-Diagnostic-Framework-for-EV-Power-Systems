@@ -1,0 +1,18 @@
+# MATLAB generated folders
+slprj/
+hdl_prj/
+ui_prj/
+codegentemp/
+
+# Simulink Cache and autosave files
+*.slxc
+*.asv
+*.original
+*.autosave
+
+# Compiled MEX files (like your evs_acc.mexw64)
+*.mex*
+
+# Temporary/Log files
+*.log
+Derivatives/
